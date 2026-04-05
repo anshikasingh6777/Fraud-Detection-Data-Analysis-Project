@@ -9,7 +9,7 @@ This project focuses on detecting fraudulent banking transactions using data ana
 - SQL
 - Power Query
 - Power BI
-- 
+  
 ## Project Workflow
 
 ### 1. Data Collection
@@ -19,7 +19,7 @@ This project focuses on detecting fraudulent banking transactions using data ana
 - Removed duplicates
 - Handled missing values
 - Fixed data types
-- 
+  
 ### 3. Data Analysis (SQL)
 - Fraud vs Normal Count
 - Fraud in International Transactions
