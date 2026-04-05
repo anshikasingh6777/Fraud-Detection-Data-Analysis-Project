@@ -55,7 +55,7 @@ Aspiring Data Analyst
 
 ## Dashboard
 
-![Fraud Dashboard](Dashboard Images/Home%20page.png)
+![Fraud Dashboard](Screenshots/Home%20page.png)
 
 
 
