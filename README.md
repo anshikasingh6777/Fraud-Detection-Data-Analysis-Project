@@ -53,7 +53,7 @@ Created interactive dashboard showing:
 Anshika Singh
 Aspiring Data Analyst
 
-## Dashboard
+## Dashboard Preview
 
 ![Fraud Dashboard](Screenshots/Home%20page.png)
 
